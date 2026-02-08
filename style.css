@@ -73,10 +73,10 @@ button {
 }
 
 .valentine-img {
-  width: 60%;  /* or 60%, 75%, whatever looks good */
+  width: 70%;  /* or 60%, 75%, whatever looks good */
   max-height: 700px;
   object-fit: cover;
-  border-radius: 12px;
+  border-radius: 11px;
   margin-bottom: 15px;
 }
 
@@ -91,4 +91,5 @@ button {
   }
 
 }
+
 
